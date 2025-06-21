@@ -10,9 +10,6 @@ A campus social network application that helps students connect with peers, join
 - Community building and group formation
 - Campus-specific networking
 
-## 🚀 Demo
-
-[View Live Demo](https://peer-connect-v1-cl.onrender.com/)
 
 ## 🛠️ Tech Stack
 
