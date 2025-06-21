@@ -83,11 +83,4 @@ A campus social network application that helps students connect with peers, join
 4. Submit a pull request
 
 
-## 👤 Author
-
-**Monu2310**
-- GitHub: [@Monu2310](https://github.com/Monu2310)
-
----
-
 ⭐ Star this repo if you found it helpful!
